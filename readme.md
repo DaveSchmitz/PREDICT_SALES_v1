@@ -1,4 +1,4 @@
-# M5 Forecasting Project
+# Sales Prediction Forecasting Project
 
 ## Overview
 

@@ -7,3 +7,5 @@ __pycache__/
 venv/
 .DS_Store
 .ipynb_checkpoints/
+/.virtual_documents/data/processed/Untitled.ipynb
+/data/processed/stat_summary.ipynb
